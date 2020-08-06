@@ -1,0 +1,1 @@
+This sample text will stay in bug_fix branch
