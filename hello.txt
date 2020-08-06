@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello
 Hi
 welcome
@@ -5,3 +6,4 @@ hey
 yoooo
 bonjour
 hola
+>>>>>>> bug_fix
